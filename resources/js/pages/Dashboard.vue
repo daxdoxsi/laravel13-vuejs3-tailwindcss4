@@ -7,7 +7,7 @@ defineOptions({
     layout: {
         breadcrumbs: [
             {
-                title: 'Dashboard',
+                title: 'Panel de Control',
                 href: dashboard(),
             },
         ],
